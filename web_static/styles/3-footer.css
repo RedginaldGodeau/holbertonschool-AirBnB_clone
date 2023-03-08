@@ -1,0 +1,9 @@
+footer {
+    height: 60px;
+    min-height: 60px;
+    width: 100%;
+    display: grid;
+    place-items: center;
+
+    border-top: 1px #CCCCCC solid;
+  }

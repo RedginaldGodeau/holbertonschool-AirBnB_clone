@@ -1,0 +1,22 @@
+header {
+    height: 70px;
+    width: 100%;
+
+    background-color: white;
+    border-bottom: 1px #CCCCCC solid;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+}
+
+header .logoContainer {
+    background-image: url(../images/logo.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+
+    width: 100px;
+    height: 100%;
+}
